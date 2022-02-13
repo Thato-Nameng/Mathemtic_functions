@@ -1,0 +1,14 @@
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\bin\Debug\netcoreapp3.1\Mathematical Functions.exe
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\bin\Debug\netcoreapp3.1\Mathematical Functions.deps.json
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\bin\Debug\netcoreapp3.1\Mathematical Functions.runtimeconfig.json
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\bin\Debug\netcoreapp3.1\Mathematical Functions.runtimeconfig.dev.json
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\bin\Debug\netcoreapp3.1\Mathematical Functions.dll
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\bin\Debug\netcoreapp3.1\Mathematical Functions.pdb
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\obj\Debug\netcoreapp3.1\Mathematical Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\obj\Debug\netcoreapp3.1\Mathematical Functions.AssemblyInfoInputs.cache
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\obj\Debug\netcoreapp3.1\Mathematical Functions.AssemblyInfo.cs
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\obj\Debug\netcoreapp3.1\Mathematical Functions.csproj.CoreCompileInputs.cache
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\obj\Debug\netcoreapp3.1\Mathematical Functions.dll
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\obj\Debug\netcoreapp3.1\Mathematical Functions.pdb
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\obj\Debug\netcoreapp3.1\Mathematical Functions.genruntimeconfig.cache
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART II\C9 Numbers\Mathematical Functions\Mathematical Functions\obj\Debug\netcoreapp3.1\Mathematical Functions.csproj.AssemblyReference.cache
